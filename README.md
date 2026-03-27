@@ -56,12 +56,22 @@ class HarshitSingh {
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=harshitsingh070&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&icon_color=00c6ff&text_color=ffffff&include_all_commits=true&count_private=true" />
-<img width="48%" src="https://nirzak-streak-stats.vercel.app/?user=harshitsingh070&theme=tokyonight&hide_border=true&background=0d1117&ring=00c6ff&fire=ff6b6b&currStreakLabel=00c6ff" />
+<img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api?username=harshitsingh070&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&icon_color=00c6ff&text_color=ffffff&include_all_commits=false&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage" />
+<img width="48%" src="https://streak-stats.demolab.com?user=harshitsingh070&theme=tokyonight&hide_border=true&background=0d1117&ring=00c6ff&fire=ff6b6b&currStreakLabel=00c6ff&sideLabels=ffffff&dates=ffffff" />
 
 <br/>
 
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitsingh070&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&text_color=ffffff&layout=compact" />
+<img width="38%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=harshitsingh070&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00c6ff&text_color=ffffff&layout=compact" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Harshit's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshitsingh070&bg_color=0d1117&color=00c6ff&line=0072ff&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -72,16 +82,6 @@ class HarshitSingh {
 <div align="center">
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/harshitsingh070?theme=dark&font=Fira%20Code&ext=heatmap&border=0)](https://leetcode.com/harshitsingh070)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=harshitsingh070&theme=tokyonight&no-frame=true&margin-w=6&column=7)
 
 </div>
 
