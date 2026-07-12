@@ -28,5 +28,5 @@ jobs:
             echo "No changes to commit"
             exit 0
           fi
-          git commit -m "chore: daily automated update"
+          git commit -m "Time Update"
           git push
